@@ -1,2 +1,2 @@
-# GitHub-Workshop
-This was made during a GitHub workshop. 
+# TechACMWebsite
+Repository for WVU Tech's ACM Chapter website!
